@@ -1,0 +1,2 @@
+D:\New folder\AccountClass\AccountClass\obj\Debug\AccountClass.csprojAssemblyReference.cache
+D:\New folder\AccountClass\AccountClass\obj\Debug\AccountClass.csproj.CoreCompileInputs.cache

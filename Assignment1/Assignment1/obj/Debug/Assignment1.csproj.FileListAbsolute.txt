@@ -1,0 +1,10 @@
+D:\New folder\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+D:\New folder\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+D:\New folder\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+D:\New folder\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+D:\New folder\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+D:\New folder\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+D:\New folder\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+D:\New folder\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+D:\New folder\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+D:\New folder\Assignment1\Assignment1\obj\Debug\Assignment1.pdb

@@ -1,0 +1,10 @@
+﻿CREATE TABLE [dbo].[Table]
+(
+	[Book Name] VARCHAR(50) NOT NULL, 
+    [Book Id] INT NOT NULL, 
+    [Author Name] VARCHAR(50) NOT NULL, 
+    [Publisher Name] VARCHAR(50) NOT NULL, 
+    [No of Copies] INT NOT NULL, 
+    [Price] INT NOT NULL, 
+    CONSTRAINT [PK_Table] PRIMARY KEY ([Book Id]) 
+)

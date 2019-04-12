@@ -1,0 +1,7 @@
+D:\New folder\Account\bin\Debug\Account.exe.config
+D:\New folder\Account\bin\Debug\Account.exe
+D:\New folder\Account\bin\Debug\Account.pdb
+D:\New folder\Account\obj\Debug\Account.csprojAssemblyReference.cache
+D:\New folder\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+D:\New folder\Account\obj\Debug\Account.exe
+D:\New folder\Account\obj\Debug\Account.pdb
